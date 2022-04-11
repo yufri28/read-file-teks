@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO; //tambahkan library using System.IO untuk bisa menggunakan Class File; 
+using System.IO; //tambahkan library using System.IO untuk bisa menggunakan Class File
 using System.Collections;
 
 namespace ReadTextFile
