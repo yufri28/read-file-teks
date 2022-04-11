@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.pdb
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.exe
+C:\Users\USER\Desktop\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.pdb
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.pdb
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.exe
+D:\Project\Visual Studio Project\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.pdb
